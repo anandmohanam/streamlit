@@ -1,0 +1,8 @@
+streamlit
+
+streamlit 
+pillow 
+rembg
+
+pip install onnxruntime-gpu
+
